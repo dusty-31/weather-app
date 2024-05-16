@@ -21,7 +21,7 @@ A Python-based command-line application to fetch and display weather information
 
 1. Clone the repository or download the script.
 
-2. Install the required Python package:
+2. Install the required Python packages using pip:
 
     ```sh
     pip install -r requirements.txt
